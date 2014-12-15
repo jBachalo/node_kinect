@@ -1,8 +1,8 @@
 # Node-Kinect2
+Fork of original code here  https://github.com/wouterverweirder/node-kinect2
+Work in progress
 
-Nodejs library to access the kinect 2 data from the official MS SDK
-
-Still very early / experimental.
+Attempting to add bodyIndexFrame functionality
 
 ![Screenshot](https://raw.githubusercontent.com/wouterverweirder/node-kinect2/master/node-kinect2-skeleton.png)
 
