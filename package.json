@@ -1,0 +1,27 @@
+{
+  "name": "kinect2",
+  "version": "0.0.8",
+  "description": "Nodejs library to access the kinect 2 data from the official MS SDK",
+  "main": "kinect2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wouterverweirder/kinect2"
+  },
+  "keywords": [
+    "kinect2",
+    "sdk"
+  ],
+  "author": "Wouter Verweirder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wouterverweirder/kinect2/issues"
+  },
+  "homepage": "https://github.com/wouterverweirder/kinect2",
+  "dependencies": {
+    "edge": "~0.9.3",
+    "lodash": "^2.4.1"
+  }
+}
